@@ -7,6 +7,8 @@
     ;
     color: white;
     text-align: center;
+    
+    /* footer styling */
  }
 
 body {
@@ -23,16 +25,11 @@ body {
     font-size: 30px;
   }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
+
   
  .center {
 text-align: center;
 height: auto;
-
+/* centering for all text */
   
 }
